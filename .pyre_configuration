@@ -1,5 +1,3 @@
-# static_analysis_example/.pyre_configuration
-
 {
   "source_directories": ["."],
   "taint_models_path": "stubs/taint"

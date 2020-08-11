@@ -1,5 +1,3 @@
-# static_analysis_example/stubs/taint/general.pysa
-
 # model for raw_input
 def input(__prompt = ...) -> TaintSource[UserControlled]: ...
 
